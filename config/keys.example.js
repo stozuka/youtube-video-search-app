@@ -1,0 +1,3 @@
+export default {
+  REACT_APP_YOUTUBE_API_KEY: 'YOUT_API_KEY_HERE'
+};
